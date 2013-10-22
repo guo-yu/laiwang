@@ -1,0 +1,21 @@
+{
+  "name": "laiwang",
+  "version": "0.0.0",
+  "description": "a Node.js sdk of laiwang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/turingou/laiwang.git"
+  },
+  "keywords": [
+    "laiwang"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/laiwang/issues"
+  }
+}
